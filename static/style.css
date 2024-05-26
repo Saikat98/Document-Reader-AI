@@ -1,0 +1,310 @@
+/* Define the animation */
+@keyframes shake {
+  0%, 100% {transform: translateX(0);}
+  25% {transform: translateX(-5px);}
+  75% {transform: translateX(5px);}
+}
+
+@keyframes gloss-animation {
+  0% {transform: translateY(180%);}
+  100% {transform: translateY(-100%);}
+}
+
+@keyframes blink { 
+  25% { opacity: 0; }
+  50% { opacity: 1;}
+  75% { opacity: 0;} 
+}
+
+@keyframes typing-dots {
+  0% { content: "Typing"; }
+  33% { content: "Typing."; }
+  66% { content: "Typing.."; }
+  100% { content: "Typing..."; }
+}
+
+* {
+    box-sizing: border-box;
+  }
+
+  html {
+      height: 100%;
+  }
+  
+  body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    /* background-color: #222831; */
+    background: radial-gradient(#282e36 15%, transparent 16%), repeating-linear-gradient(0deg, transparent 6.5%, #222831 7%, #222831 9%, transparent 10%), linear-gradient(45deg, transparent 49%, #282e36 49%, #282e36 51%, transparent 51%), linear-gradient(-45deg, transparent 49%, #282e36 49%, #282e36 51%, transparent 51%);
+    background-size: 2em 2em;
+    background-color: #222831;
+    opacity: 1;
+    height: 600px;
+    margin: 0;
+  }
+
+  p {
+    padding: 0px;
+    margin: 0px;
+  }
+
+  table {
+    border-collapse: collapse;
+    margin: 10px 0px 8px 0px;
+  }
+  tr, th, td {
+    border: solid 1px #a5acb9;
+    padding: 3px;
+  }
+  th{
+    font-weight: 600;
+    background-color: #5c6577;
+  }
+  tr:nth-child(even) {
+    background-color: #5c6577;
+  }
+  
+  span {
+      padding-right: 15px;
+      padding-left: 15px;
+  }
+  
+  .container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+      height: 100%;
+  }
+  
+  .chat {
+      /* height: 600px; */
+      margin-top: 3vw;
+      gap: 5px;
+      max-height: 600px !important;
+      width: 40vw;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+  } 
+  
+  ::-webkit-input-placeholder { 
+      color: .711 
+  }
+
+  div.input{
+    display: flex;
+    border: 0;
+    align-items: center;
+    /* padding: 15px;  */
+    width: 100%;
+    border-radius: 22px;
+    background-color: #EEEEEE;
+  }
+
+  input {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    border: 0; 
+    padding: 15px;
+    padding-left: 5px;
+    width: 100%;
+    border-radius: 22px;
+    background-color: #EEEEEE;
+  }
+
+  input:focus{
+    outline: none;
+    }
+  
+
+  .shake-animation {
+    animation: shake 150ms linear;
+    width: 500px !important;
+  }
+
+  .attachment{
+    width: 40px;
+    height: 40px;
+    scale: 0.8;
+    opacity: 0.7;
+    transition: 100ms;
+  }
+  
+  .attachment:hover{
+    /* width: 40px; */
+    scale: 0.82;
+    opacity: 1;
+  }
+  .gloss-effect{
+    
+    display: none;
+    /* background: transparent; */
+  }
+  .gloss-effect-active {
+      width: 100%;
+      height:60%;
+      background: linear-gradient(
+        to bottom, rgba(0, 0, 0, 0) 0%,rgba(128, 128, 128, 0.192) 20%, rgba(194, 194, 194, 0.199) 50%, rgba(255, 255, 255, 0) 100%
+      );
+      border-left: 1px solid #b1b1b1;
+      border-right: 1px solid #b1b1b1;
+      animation: gloss-animation 400ms ease-in-out 1;
+  }
+
+  .messages {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    height: 400px !important;
+    width: 100%;
+    /* background-color: #31363F; */
+    background-color: #222831;
+    padding: 10px 0px;
+    margin: 10px;
+    border-radius: 20px;
+    border: 1px solid #535B6B;
+    transition: border-top 700ms, border-bottom 10ms;
+  }
+
+  .messages_bottom_border {
+    border-bottom: 1px solid #b1b1b1;
+  }
+
+  .messages_top_border {
+    border-top: 1px solid #b1b1b1;
+  }
+
+  .allow_scroll {
+    overflow-y: auto;
+  }
+
+  .messages::-webkit-scrollbar {
+    width: 6px;
+  }
+  
+  .messages::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  
+  .messages::-webkit-scrollbar-thumb {
+    background-color: #323741;
+    border-radius: 8px;
+  }
+  
+  .messages::-webkit-scrollbar-track-piece:end {
+    background: transparent;
+    margin-bottom: 13px; 
+  }
+
+  .messages::-webkit-scrollbar-track-piece:start {
+      background: transparent;
+      margin-top: 13px;
+  }
+  
+  #bot {
+      margin-right: auto;
+      /* margin-bottom: 10px; */
+  }
+  
+  .bot {
+    font-family: "Roboto", sans-serif;
+  }
+  
+  .bot_response
+  {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-width: 80px;
+    /* align-items: center; */
+    font-size: small;
+    padding: 8px 15px;
+    margin-right: 15px;
+    /* margin-left: 8px; */
+    color: #EEEEEE;
+    /* background-color: #CBEF85; */
+    background-color: #535B6B;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+  }
+
+  .typing::before {
+    content: "Typing";
+    animation: typing-dots 1s steps(3, end) infinite;
+  }
+
+  .avatar {
+      height: 26px;
+      padding-top: 2px;
+      margin: 0px 10px;
+  }
+  
+  .response {
+      display: flex;
+      align-items: flex-start;
+      margin: 1%;
+  }
+  
+  #user {
+    margin-left: auto;
+    /* margin-top: 10px; */
+    /* margin-right: 10px; */
+  }
+
+  .user_response
+  {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: small;
+    padding: 8px 10px;
+    /* color: #EEEEEE; */
+    color: black;
+    padding:8px 15px;
+    margin-left: 15px;
+    /* margin-right: 8px; */
+    /* background-color: #535B6B; */
+    background-color: #CBEF85;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+    /* border: 1px solid black; */
+  }
+
+  .info {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: smaller;
+    color: #EEEEEE;
+    opacity: 0.5;
+    /* transition: 1s; */
+    /* margin-left: auto; */
+  }
+
+  .ready {
+    color: white;
+    opacity: 1;
+    animation: blink 0.6s ease-in infinite;
+  }
+  
+  .footer{
+    margin-top: 10px;
+    /* margin-left: auto; */
+    text-align: right;
+    opacity: 0.4;
+  }
+  
+  /* Mobile */
+  
+  @media only screen and (max-width: 980px) {
+    .container {
+          flex-direction: column; 
+          justify-content: flex-start;
+      }
+    .chat {
+          width: 75vw;
+          margin: 10vw;
+      }
+  }

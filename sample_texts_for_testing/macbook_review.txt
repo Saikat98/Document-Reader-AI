@@ -1,0 +1,47 @@
+I’ve been a freelance writer and digital nomad for about nine years, and in the early days when my job only consisted of typing words, I used a 13-inch MacBook Air as my sole work machine. A few years later when I began creating video content, I had to switch over to the pricier and heavier MacBook Pro because the increased workload needed the higher-tier Intel processor and fan to keep the machine churning. I also opted for the 16-inch screen size because as I got older, 13-inch screens just felt too cramped.
+
+But Apple really blurred the lines between Pro and Air when it moved all of its laptops over to its self-developed silicon, which are far more energy efficient than Intel processors. Suddenly, the fan that was very much needed to keep an Intel processor from performance throttling became mostly unnecessary. On my M3 Max MacBook Pro, I almost never hear the fan unless I am gaming or exporting a video that’s longer than five minutes long.
+
+And so when Apple launched a 15-inch MacBook Air running on its latest 3-nanometer M3 chip, I was intrigued: could I switch back to the Air for my work needs? The screen size is large enough, and the M3 silicon is extremely efficient, so the Air’s fanless design isn’t the performance compromise it once was. Of course my 16-inch M3 Max MacBook Pro will still be more powerful and render videos faster, but it’s also 3X the cost, thicker and heavier. If the MacBook Air could handle my workflow without feeling too overwhelmed, then I would make the switch back, because the MacBook Pro’s nearly 5-pound weight is taking a toll on my back since I live a car-free lifestyle.
+
+Spoiler alert: the new M3 MacBook Air can indeed handle my workflow, which includes editing 4K videos on Final Cut Pro, editing photos in Adobe Lightroom, and typing words into a CMS on Safari, usually with Slack and Spotify running in the background.
+
+This means I will, in fact, be making the new MacBook Air my work machine when I step out of the apartment. The M3 Max MacBook Pro will become more of a deskbound machine for home use.
+
+Design: If it ain’t broke ...
+
+Other than new color options including the matte grey-ish “Midnight” color I have, the 15-inch M3 MacBook Air looks exactly the same as the last generation M2 MacBook Air. So there is a notch in the display area, and the machine has a more squared-off, boxy look instead of having tapered edges like older MacBook Airs. It’s a well-built, premium feeling machine, with a spacious full-sized keyboard and a large trackpad with strong haptics. There are also six speakers with subwoofers hidden in the part of the laptop that’s covered by the hinge, and sonic output is tremendous for a device this sleek (the laptop measures 0.4-inches thick when closed).
+
+This 15-inch model weighs 3.3 pounds, which is 1.6 pounds lighter than the 16-inch MacBook Pro. It may not sound like a lot, but if you walk 12,000 steps a day with your laptop in a backpack along with camera gear, every pound cut matters. My backpack immediately felt lighter when I took out the 16-inch Pro and swapped it with the 15-inch Air. Even the backpack straps do not dig into my shoulders as much.
+
+The 15-inch LED screen is fine. It looks good in a vacuum but really nothing to write home about if you’re a techie. In terms of resolution or display panel technology, Apple’s MacBooks consistently lag the competition. There are rival Windows laptops with higher res OLED screens, thinner bezels, higher refresh rate, higher peak brightness, etc. But I use my laptop for productivity, not consuming immersive content, so I really do not mind. I think most people are the same way. In this day and age, we consume most of our content on phones and tablets far more than a laptop.
+
+I want to reiterate: this screen doesn’t look bad at all — colors are accurate, and Apple automatically warms the screen at night to make it easier on the eyes — but just that there are other laptops out there with punchier screens.
+
+Performance: Apple silicon keeps the lead
+
+What sets this laptop apart is the M3 chip. Built on 3-nanometer processing, the M3 continues the M chips’ run of dominance. It’s extremely powerful, reaching benchmark numbers that rival Intel processors, but is much more efficient.
+
+The big issue with Intel processors is that they are very power hungry and gets warm. The fan kicks in frequently and often to keep the processor cool. And if you unplug the laptop from a wall socket and operate on battery power, you see a noticeable performance dip with Intel laptops. That’s not the case with Apple silicon. Whether the laptop is plugged in or unplugged, you get similar performance, and as I mentioned earlier, my MacBook Pro rarely ever uses its fan because the M chip doesn’t get hot enough. So this means the fanless MacBook Air really isn’t losing out much.
+
+The model I’m testing has 16GB of RAM (the laptop starts at 8GB), with an 8-core CPU, 10-core GPU, and 16-core Neural Engine. And I’ve been able to edit videos on Final Cut Pro without issues. I scrub through the timeline and there are no stutters. I can export a 10-minute long video in about 13 minutes, which is four times slower than what it took my M3 Max MacBook Pro, but considering the price gap between the two machines (and difference in bulk), I think it’s an acceptable compromise. I’m willing to wait an extra 8-10 minutes per video if it means I can carry a lighter machine.
+
+Keep in mind, putting together a 10-minute long 4K video is already a more intensive task than what most people do. Most people’s laptop needs are just typing/reading words, streaming videos and music, sending emails, and video calls. For these tasks, of course the M3 has no issue.
+
+Of course, there are creative professionals whose workflow are more complicated than mine, like a 3D graphics artist, or a professional videographer who edits 8K video, or do major color grading to LOG files. For them, they may still need the MacBook Pro. But for the majority of people, the Air really is enough.
+
+There’s AI stuff too...
+
+Apple has been marketing this laptop as an “AI laptop,” because the 16-core Neural Engine here allows the MacBook Air to run on-device LLMs and generative AI apps. But really, older M chips can already do that. The Neural Engine isn’t new. However, the M3’s is a bit faster, so you can get results faster. But nonetheless, Apple suddenly pivoting to mentioning AI seems to be Apple uncharacteristically not wanting to feel left out of recent tech trends.
+
+Extremely good battery life
+
+The MacBook Air can last almost two full work days for basic office productivity use. If you’re editing videos like me, then the battery drains much faster, lasting about four to five hours. But regardless, these numbers are much better than most Intel-powered laptops.
+
+Charging can be done via either of the two USB-C ports, and the MagSafe port. The laptop charges at a maximum speed of about 70W. Those two USB-C ports can now also output to two external monitors, which previous M-powered MacBook Airs could not.
+
+The perfect mix of portability and power
+
+The 13-inch MacBook Air is the most popular laptop worldwide. From Singapore to Hong Kong, Barcelona to Berlin, it’s the laptop I see most at coffee shops. But I think the 15-inch could overtake it in popularity eventually. I think consumer trends have shown that consumers are okay with going with larger screen if the overall footprint doesn’t bulk up too much. And in today’s age where more and more people are foregoing owning a conventional computer in favor of a laptop, I think people would want a bit larger screen than 13-inch.
+
+I think this 15-inch MacBook Air is going to be very popular with digital nomads, or anyone who loves to take their laptop and work outside. Its $1,300 starting price is very reasonable given the power and performance it provides. I think Apple products are generally overpriced compared to what the competition is offering, but the MacBook Air may be the exception. It’s the one Apple device that’s actually a better value than rivals.

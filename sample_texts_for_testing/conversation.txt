@@ -1,0 +1,371 @@
+00:00
+Well, the completion rates are outside. Prints will be possibly through versus the second of playthrough. So that's hopeful Okay. Awesome. Yeah, this is a work in progress, but I don't know. That's where we are at right now. Now we're also kind of, uh, preparing as somebody here, uh, just for your, uh, review on what we have for August, uh, as of now, in terms of spells, we did break down, uh, the Spells uh, you know, uh, with respect to spell views that are spills used inside combat versus when you're not, not in a combat while still using those spells.
+
+00:34
+The link but you can go to and you know in this table in the conjugation you can combat out of combat control in combat out of convert but you know, considerations you can't really use inside combat. So this is I we believe that this is a delivery tracking issue.
+
+00:50
+But let's start. Or maybe how do we know if if just hitting the button in combat tracks? It, you know like says it's an in combat usage because I could hit the spell button by mistake so it could be that too. Yeah, you can. But this is uh, for consulation spell specifically um not sure.
+
+01:12
+If that is possible, but I mean if I just have it equipped I hit it on accident you know who's opposed to a difference about maybe? Anyways that's just can um can so this is by category um, Is there, can we? Do a breakdown by the specific spell because I know we have that broken out else.
+
+01:34
+We know like what goes in each category. Could we do that here too? Yeah, I think we can. Yeah. Cuz that that would be helpful, I think, um, Yeah, knowing the category is great, but knowing what specific spells. I think there were a few key spells. We'd expect users to use more outside of combat, so more likely could use more outside combat, they could use it for exploration.
+
+02:01
+Uh, what does replayability we have talked about? Bathroom of requirements. Okay, plants and portions. Uh, yeah. So Actually, let me go to this table. Yeah. Genetic we have a feeling that what you're saying is is right. Like there are some random, uh, portions that you get from popping pots.
+
+02:24
+We can think of any other reason why? Like, from where they can get those portions. Could be but not exactly sure. Okay. And Bottles. Just a minute. The data on the far left of the chart. Let's see. Thank you. You move that over? Okay. Yeah. Level. So, which is something that you wanted to look at.
+
+03:02
+I guess it does make sense, because I think I think it is the hopping pot because you I don't think you can get the Felix potion from the hopping pot. So since that zero for everybody,
+
+03:22
+How do you get hopping pots? You know, similar so that kind of shows a random pattern.
+
+03:44
+Right. So that that's pretty much it on on uh, you know, August Legacy. Uh, do take a look at this, uh, particular summary sheet, um, after sell after after row number 65, we have added some, uh, you know, comments and insights. And let us know. Awesome. Uh what else was there?
+
+04:05
+What else was outstanding from the original list that I sent you? Um, there was a couple or something on butterfly butterflies and puzzle, thoughts, that is something. Oh yeah, yeah. Not not super. There was I thought there was one more. Oh dungeons. Dantans. I think it was just a matter of confirmation like whether we are using the right uh, you know, a level or not.
+
+04:32
+Doesn't look like we are but then again, it's a tracking issue. Uh, well let's let me let me pull up the data here real quick so I think specifically, I think you're right, I think, uh, oh, I think we basically confirmed it. The dungeons puzzle stat is not something we can use for dungeons.
+
+04:49
+It's it's, you know, an arbitrary thing, they put in to track some, some specific data points. So Cool. But we don't really know what those are. I mean, it might still be useful, but it doesn't sound like it. So if we wanted to know, Uh, if we wanted to know what, Dungeons people were so there are those Karen dungeons, right?
+
+05:13
+That's I think specifically what we're talking about. Um, what we do, what do we have? So that if not that puzzle's not good, or if that, that stat isn't something we can use. I know we have, um, This under open world there is like, decile locations. Those two look like some of those at least.
+
+05:39
+Look like, potentially the dungeon locations. Uh so if you scroll down a bit it's just a little bit. Uh, well down. Actually, it's a little up from where you are. Sorry it's row 7b2. Yeah, so those dungeons kind of look like some, like I know one is actually called Karen dungeon.
+
+06:00
+Which that might be how it's named in data, but the rest that some of them do kind of look like Goblin mine, I know is one Um, God mind. Uh, Believe that our biology dungeon herbology dungeon is also one. So It seems like maybe we can track these by location.
+
+06:16
+Uh, and we may just need to find a mapping of these specific dungeons because I think there were 13 or 15 in the game. Right. And and what exactly are you looking for here? Uh, so So specifically. So, uh, the question that came up, um, Here they are considering making more dungeon content, right?
+
+06:40
+They think dungeon content it was was um Was premium. It was like this its own bespoke location that had its own puzzles and they're like yeah we want to make more of those. They are expensive but we think it's worth doing. But then the question is well did uh we see any changes in engagement Within These dungeons, right?
+
+06:58
+The players end up making them all making all the way through. Did they participate in all the optional puzzles that were in the dungeon? Actually, see a higher, the players, not like them and just end up dropping off somewhere in the middle. So I think it's Trying to figure out.
+
+07:18
+Completion rates. Uh, just just engagement with these engines specifically, I do think fortunately, all the dungeons are associated with a quest. So maybe like a quick shortcut might be looking at the associated Quest and um, Comparing that you know the drop off there or the drop off another Quest.
+
+07:37
+Yeah and I I think we can do that. And this sheet itself. You're right, I think many of those dungeons are part of the quest, so I think we should have some information here. So Sandy can you like go to that question?
+
+07:56
+Oh, Just a minute. Another list of questions here, but Yeah, here I can send you. Let me send you the and send you the the Uh, I found a reference for the quests. Uh, let's see. Like, for example, there's a cave. Uh, for the Helm of irknot main quest, you're required to explore.
+
+08:24
+The collector's cave. So, That would be you know, an example. But I'll um here I'll drop the link in here but Um, that that I found that as a guide that just kind of lists out all the, the carb dungeons and the quests Associated quests. So if we can just do a quick comparison as a start, it won't tell us if players engaged with all the optional puzzles and such but um Please can give us a look.
+
+08:51
+Okay, so how I would recommend going about dungeons is let's create a separate tab here in this spreadsheet. Um, so Ben what you were discussing earlier? Those were the locations, right? Yes. Uh but they have nothing to do with the question that was asked during the meeting Is that correct?
+
+09:14
+Well, the question that was asked during the meeting was do, are players dropping off more or less with these particular pieces of content, but that has nothing to do with the locations that Exploring these dungeon quests. The completion rate for this, these dungeon Quest was the main focus of those questions, right?
+
+09:39
+I guess what I'm asking is the locations in which the word dungeons is, there has nothing to do with the question that was asked in that. Correct. Think so. Yeah. Okay. Uh and we can clarify that because even I have I don't have much Clarity I think We can like go back to them and like, just have a brainstorming session.
+
+10:05
+So, what I would recommend is based on this article that Ben just shared. Let's put all these participation and completion rate for this quest in a separate tab. Let's call them dungeon related quests. We can just potentially just copy paste, the Other information, wherein we were discussing about the locations.
+
+10:29
+And I'll reach out to the specific person who had raised this question and we can have like 15 20 minute call to do that so that we get more understanding of what they want to get after sounds good. And then last I just um we don't have to talk about it in depth but one of the the other um, Requests, I had Sandeep was just looking at a correlation between difficulty, level played and main quest completion.
+
+10:58
+So, just want to make sure that was still on the list. As well. Yeah, okay, yeah, I think right now, you have like participation by difficulty, but completion is at an overall level. So we would need the completion at the difficulty level.
+
+11:18
+Yep. Yeah, okay. Like I was asking Sandy, is that correct? Just give me a minute. So my understanding is like, Typically players finish the game at a media medium difficulty level. So is there a relationship between If I if I like, if I go ahead in my golden path and the missions get difficult are the players, uh, moving to a lower difficulty or not.
+
+11:43
+So that will kindly indicate the correlation. That that's Understanding of topic question. It's not that difficult, it's straightforward. Based on the difficulty that you have selected as a player. What has the calculation rate at that difficulty? Okay, for each missions. Got it. Okay. An overwhelming amount of players played on medium, but did the players play?
+
+12:11
+Uneasy do more. Kind of is, yeah? Right? Right there. All right. Cool. Okay. Okay. Uh, since rawhide is here, I think we're, I think we're good on this and no, no. So uh sorry I got a bunch of more questions. Uh, this morning from a few folks at Rocksteady.
+
+12:30
+So I think we have answers to many of them. Then I just shared that in slack with you. So yeah, what I would do is Take that as a new action item. Yeah. Um, my understanding is that we should have at least like 50 of those answered. Um, like difficulty field guides Combat trials, Merlin trials.
+
+13:06
+Um, we should have like very basic information for most of these. So, what I would do is All these follow-up questions, the first set of follow-up questions that we had from the meeting. And then this new set of follow-up questions, let's just put everything Uh, in one tab or in one sheet, whatever a fine wants to do and then we can get back to them with all of them and I'll try to schedule a call.
+
+13:40
+Later this week probably on Friday just to give them an update. Like these are some of the answers we are still investigating and at the same time we can get Some cross questions to them, in terms of what they want to achieve by answering this, Okay.
+
+14:01
+So I I will uh take a pass through first and just see what we have already and if we need anything else Sandy, but I'll um, I'll throw that to you. Okay, for sure. Thanks. Thanks. Now, moving to Yeah, layer segmentation. Yeah. Right. So we have the results. I mean, we collected all the cohorts together and this is the result that we uh, have we created the tech for you guys as well.
+
+14:36
+Um, Just a minute. That's kind of a commenting on, uh, you know, the different segments that definitions the cohorts that we have used, um, the time period for those cohorts. So quite quite well, yeah, so did the results come in? Very Similar in terms of like the segments. Yeah, I know they were starting the profiling exercise was the profiling exercise a bit different.
+
+15:09
+Compared to mk11 it looks like it's the same but anything outstanding or anything very different than M Galore. Was pretty much similar to mk11 in terms of the Profiles. We got and yeah in general it was almost similar only thing being different is The invasion which is different, right?
+
+15:32
+So the connectors segment ended up spending most time in Invasion. That is the only significant difference from the cohorts, or the segments we had in mklib.
+
+15:54
+Um, can you put the percentages also for these players and instead of tower players can you call them invasions or PVE players? Uh, the tower players aren't Invasion players. Those are I asked that question yesterday. Those are the players who are playing in the um, the towers mode, specifically like the static.
+
+16:14
+Yeah. So then
+
+16:21
+So, these are like Classic tiles.
+
+16:44
+So what was this person? Do we have the similar deck for the same time period? The first iteration of segmentation that we did in MK11 which A similar breakdown of players. Wherein, we took more players from the First four weeks and then next two weeks and then the last week, Yeah, for the same time period, we do have Hydration over MK11.
+
+17:10
+Yeah, so what was the percentage time spent in? Uh, towers for that.
+
+17:26
+So then you use the tagging here for game mode. So Tower was specifically Classic Towers correct? Yeah, yeah.
+
+18:14
+Uh, the percentage time spent in Towers it. So that is 41 for the tower players. 41 percent. No, no for the connoisseurs. The percentage time spent in Towers. No, no, I'm asking your uh you want the percentage time. Spent in towers for the corners. You'll say yes. 36 percent.
+
+18:49
+So I guess like my question is, then what are they playing? Less of Can you send me that deck? Yeah. Yeah. I'll just sing actually.
+
+19:12
+Maybe we'll have to like,
+
+19:26
+Can you guys do like one more iteration in which you break down the connoisseurs? Maybe like so my hypothesis is that there is a sub segment within the corner store category Spend more time on invasions. Because like, right now it's looking like Um,
+
+19:59
+Is there a set of players that only play invasions? I don't think that's curving up from this. So my, I my, I, I got chicken. Okay. I guess is that we, that connoisseurs could break down furthers and I'm just surprised that there is a set of players about Yeah.
+
+20:23
+Okay. Which is about like six percent of our player base 5.5 percent of our player base who are doing nothing but playing the classic Towers which is literally like nothing they played story.
+
+20:48
+And then online, how much percentage of the audience was online? And that deck from MK level. Uh, from mk11, it was 6%. Yeah, so now that has increased to 13, which is also reflected in all the data that we have, provided that 0.7 million that we are talking about Yeah, did you send me that day?
+
+21:12
+Yeah yeah I just shared our Outlook.
+
+21:31
+Yeah, so how I would recommend is
+
+21:39
+Uh, let's just do one more iteration in, which if we can break down where the set of players that were primarily focused on invasions because From this and like, identify anything number with retention for these kpis. Oh, sorry, for these segments. We didn't pull any such data. Because you might have to First tag, all the players and then find those things.
+
+22:10
+So you will need Arnel to get those done. You know.
+
+22:24
+Belen, the total play time or total hours played as 2 G7. Okay?
+
+22:35
+And what was the percentage, okay, you sent me the deck once again. Yeah, I haven't received it but it's right now and how much was the times I guess? Can you just tell me what has changed for connoisseurs in terms of their time span Between the two games. So connoissers the total time wise.
+
+23:01
+It is uh 83 Hertz. In MK11 and here it is, 28 and percentage is high. Uh the total time spent in percentage time, spent in Towers was the max 32 percent in MK11 and here, the max is on uh, Invasion rate and then the time spent
+
+23:28
+Offline is the second highest there, 22 percent. And here, the time spent in offline is 12 Third, highest being the story in story. They have spent 16 percent and here it is. 16 again. And, Then I think there is others 10 percent. And here others is only four percent.
+
+23:53
+The remaining ones are like less than 10. Uh, online, PVP was five percent and here online, PVP seven percent and tutorial. Tutorial is eight percent and tutorial. Here is nine. Yeah, so basically instead of offline, they are playing invasions now. And we are tagging this connoisseurs, based on the fact that we had a higher spend and higher Time and yeah, combat my conversions and play time as well.
+
+24:25
+Yeah. And if I remember, right, Yeah. So this trend was that even in MK11 that even though connoisseurs are not, The highest engaging audience in terms of play time, They are still spending more money. Ban online players. Uh, compared to online, they have spent more time. So online had Uh, spend 49 hours and connoisseurs was 83.
+
+25:01
+Yeah. Yeah, that 83 is not correct. Maybe there needs to be a different version of that deck. Because I do remember that in that final version, what we had seen was connoisseur spend more Money. But less time than online players. Um, This was not the first version done. So in uh, MK we have run one, initial version first, couple of months this was run.
+
+25:31
+Uh, Around jang. So basically I pulled up a deck which has exactly same time period as MK1. So where we have eight months or seven month cohorts
+
+25:48
+Okay.
+
+25:53
+Yeah, anyways playtime is a metric that it's very difficult to compare between two late titles. Uh, because average was 29 and your average is Global average for playtime is 14. Yeah playtime. And not the right metric to compare because the way in which those play times are captured is not consistent between titles.
+
+26:18
+Um,
+
+26:34
+97. And how much is the combat pack conversion here?
+
+26:47
+Yes. Yeah.
+
+26:58
+Yeah, I I feel that that connoisseur's segment is. Did you find the Solute ratio for this. Model. Uh, we have that in the Uh Excel uh sorry, Google Sheets, run. Show me that.
+
+27:26
+And did you find like any elbow car for the entire data set? Uh we did one. I think it's not added here but uh the elbooker was not giving anything because we didn't have any sharp as it was almost like a linear curve. And lately there was light Edge at four.
+
+27:48
+Ah, number of clusters or Okay. Um,
+
+27:57
+Yeah, I think we have a story here. What do you think? Ben, but I just feel uh, That corner. Source is a bit weird to me.
+
+28:09
+Anything that's caught your eye. I'm looking at the old data right now to get a good comparison. But not initially. What what specifically do you think is weird? Specific thing to me that's weird is like in when we are comparing those two numbers like MK11 and MK1 which I have almost a similar time period and same set of cohorts.
+
+28:39
+Um, For connoisseurs, we had more than 97 percent. Conversion to combat back. And that population, was 15 percent. Are not 15. 758 000 divided by. 12 percent on its in the last last word.
+
+29:11
+12 percent, right? Yeah. And here, it's closer to 20. 18. Yeah, 60 16. Connoisseurs were there.
+
+29:27
+Um, and here, it's 18. So it's not that different, but how come it's 16 7?
+
+29:49
+Yeah, that should be 12%. I don't know why in that deck, it's written 16, but it should be 12 percent. In the last slide, I'm talking about the last slide. So, I think that is a percentage of players who did some character customization. Yes. Oh, so, where are you seeing the percentage players?
+
+30:16
+Uh, on the second slide, I think the Or the, the one, with all the the overall player segmentation Yeah. So, 12 percent players are there. And now we are saying 18 are there. So we are saying, there are more connoisseurs and we know that we had a higher conversion rate in MKA valve.
+
+30:37
+So that would be the case. But I feel that within those connoisseurs, there could exist, two set of players that bought everything up front. They were pretty excited. They played the first season of invasions and then they turned Even though we have a lot of MTX spending, we have a lot of combat back conversion.
+
+30:56
+We see a lot of play time on invasions. But that 18 conversion or 19 players is something that is way more than what we had there. And I feel Um, that could further break down into two different segments. I could be wrong. That's my hypothesis. But That's something that caught my eye and even in that.
+
+31:24
+So if you look at that, 12 percent players Within that 12 players for connoisseurs, they had about 97 percent of them had bought the combat pack. And here. Yeah. So 97 percent of that 12. So almost all of them had bought the combat pack. And here, what we see is that the combat pack purchase is much more split.
+
+31:50
+So it's just 30 percent with the console but then it's much more with campaigners Um, I think With campaigners the percentage combat pack, was about six percent. So, That has increased just fine, which makes sense to me that players across the board bought the car back content. But I just feel that that 19 and the 37 percent did that, it could be a case that within that 19 probably like eight percent of them bought 100, like 97 of them bought the combat pack and then the remaining nine to ten percent will have a lesser Conversion to combat pack as well as lesser play time.
+
+32:41
+Probably. In my field of the game once. So I think I would run one nutrition in which Um, I make a cluster of seven. Here was also surprising to me, is that six percent set of six percent players who wanted to still play?
+
+33:14
+Yeah, cool. That's fine. This is good work. Thanks guys for putting this together. So send me all these documents in the email and then I will, I would first recommend running. So run two iterations. One iteration is with seven cluster and the same apis. Another nutritional probably just remove the combat pack ownership and the MTX spending.
+
+33:41
+Remove the two monetization kpis that we have and use xn7 clusters and see the results for that. So there are three iterations to run side mirrors for that just like same this table. Basically, that we are seeing on the screen for those three iterations. And then Once we feel comfortable, we can then go back to the analytics teams to get those Player.
+
+34:05
+Segments uploaded. Uh, in the database and then we can do the rest of the kpis for that. So, uh, one question. So when we are Should we also remove Early Access players? Because that would yeah. Yeah, anything related to monetization. Let's just try to do one, two, alterations six and seven clusters based on engagement games.
+
+34:35
+Okay, sizing will also remove number of DLC characters, so that would be four metrics.
+
+34:43
+Number of DLC characters. Anything related to monetization? Just remove it makes sense. Cool. No, I had one once again. I just want to see one more thing. So in terms of limit time or percentage share, or
+
+35:09
+They will it be possible for you to you guys to pull the retention data or that is not possible unless you upload the Information back into the database. We can, I guess, I think that as one more metric, I I can think through it but probably we can act it as one more metric.
+
+35:30
+No, no no, no no. So basically what we will do is uh in the AED mother, we won't use that as a metric in the clustering, but we will in the AED, add one slide if they played on D30. So while calculating the 30 retention for the cluster will take uh the fraction of layers who played features that information in the analytical data set.
+
+35:51
+Then once the Clusters are done, then you can just re-lookup for those set of players within that. Faster and take the average. Yeah, yeah. So just put D7, D30 D60, if it is taking a lot of time to add it to the idea and then run iterations forget about it.
+
+36:13
+Yeah. If it doesn't take time, then just add it. If it takes more time, then I would just first. Do those three iterations? Got it. And then in terms of the play time and Towers, so Konos was 36, Tower players did about 41 here using 48, but it was 12 of the population so definitely because you don't have that game mode anymore.
+
+36:38
+Uh, it makes sense that uh, Players are born now. Sorry Tower planes were more than about 26 percent, which is just six percent now. Yeah. Uh which um I was gonna ask, is there a reason? We didn't split it between the towers of time and Classic Towers for MK11 cuz that's So, how that thing works is that you can add as many attributes.
+
+37:05
+Profiling is something that the model does not spit out. Like, it does not say that these set of players were Tower player. These type of players were corner so like what comes out of the model is Just this table the number that you are seeing here. Yeah, it doesn't give a name to those things.
+
+37:26
+Yeah, I was so looking at the entail? Yeah, return iterations in which we might want to have like a separate variable with classic Towers and Towers of time, but there was not a separate group that was just focused on that. And there's always like, you can make 10 segments out of it, right?
+
+37:44
+Like, instead of six, we can always go with that. But the core question lies, how different are these segments? So, there are two very important things in this exercise. The first important thing is that. Each of the player within that segment should be very similar to the player other player in that set.
+
+38:05
+But there should not be much variance within that segment. So, if I'm talking about averages here for a connoisseur that average should Be applicable for the entire 1 million players that you are seeing within the connoisseur Academy. Us talking about the monetizing, any of the kpi that should not have a lot of variants within that group.
+
+38:25
+So that is when key metric, sorry, the key validating factor and then the other important validating factor is that These segments should be different from each other as well. So a player in the campaigner Brook should be very different than the player in the Colosse World. So now coming back to your question, if we if we try to split the tower players into classic and Towers of time that difference wouldn't have been much within those two things.
+
+38:59
+Kasha. Like it doesn't make sense to have another segment in which everything is same except percentage time played In one segment percentage time is more in Towers classic towers and in other percentage time is more That was okay. So I'll show you when we have our 101, I'll show you that.
+
+39:22
+We did the same exercise for my reverses and we had the exact same situation there. So how we dealt with it was We presented both the segments. So we had one segmentation exercise in which we had, I think seven segments. So six or seven segments and then we said that They can be further or we had like four major segments I think and then they said that they could be further soken down into six or seven segments.
+
+39:50
+So he basically told that, you know, dabbler or some casual person can be broken down into these two further segments. So it's it's just a way of telling the story. Yeah.
+
+40:07
+Percentage time in first three days and percentage time in first seven days.
+
+40:19
+Maybe we have that, yes.
+
+40:24
+And I'm t11 Stadium. Uh, it was in the It was in the set of metrics they have considered, but in the final, Like, I think it was not reported. Like even if it's not in a deck, if it's in just like Excel, just send me. Right. If it's possible like all these numbers for both and K11 and MK1 and one stretch, Yeah, because I do remember those two metrics to be there, probably, and another iteration by removing it, and the numbers were similar.
+
+41:03
+So I think it will be that we kept it in the beginning and we removed it later. Yeah. But what's what? I can clearly see here is that online players had a higher attention because if they spend less time in the three days and seven days, it means that they spend more time later on, which means that they spend, more time, more days in the game, which basically says that they have higher retentions.
+
+41:28
+What is surprising me is? Uh,
+
+41:41
+Okay, that's fine. Actually Yeah, online players didn't play much of the story. That is the only other thing that bothers me, but still like 42. How many story fights were there? There were 10 chapters or 12 chapters. And every chapter at what four fights, no.
+
+42:02
+Those 64 chapter. How many chapters were there in the story?
+
+42:11
+Or MK1.
+
+42:17
+So, there are 15 chapters on each other. Has any number of fights anywhere from like I think it's four so it could be about 60. Some of them had three. So somewhere already 55 to 60. So, if I look at the completion rate for story and online players,
+
+42:50
+Okay, even in that it was not. All right, that's fine. But it still looks higher here. Which is what we had established. That story was better than India. Colia, so the only thing that is bothering me is that corners were Academy. So just let's run those three iterations. And I think will be in a good place to do the Later off of this thing is letting me find out all the different types of kpis for these pure segments.
+
+43:24
+Yeah. Thanks. Thanks. All the 5.5 million players manually and then they did it like in a python script or how did you guys go about it? Yeah. Exactly one. So we pull them manually and run in Python. Starter time, how many? Uh, players were able to download So, we broke this down into, uh, three chords.
+
+43:59
+Right? Early mid and uh, Right? So we got them all. We got all of them in one. Go so far, one for early one for mid one for late, so we had to both rice. So what I'm trying to get at is up to 5.5 million players. It's not a big issue to run this top side of things.
+
+44:20
+Especially in the case if we know what kpis you want to look at. Because the volume of Matrix for each player is limited, right? 15 20. That's the number that you pulled. Compared to how words wherein you had to pull so many different kpins. Okay, cool. Thanks. So, um, in early cohort, they were close to 4.5 million and the other ones were around 600k.
+
+44:52
+So the one, the first one, uh, in the first pool, we had four point, five million roughly and the other were 600k. Yeah, so they just mention that as well. So can you go on the second slides of the 4-month? Period. And that within that four month, period, you're saying that's about 4.5 million players.
+
+45:12
+Yeah, and then the two months and one month combined, it's the remaining 1 million years. Yeah, perfect. Okay. I think nothing of this surprises, me, most of the data looks fine. Like we were expecting that there to be more in Uh, players in the online category, which is the case we were expecting there to be a larger volume of connoisseurs, that is the case.
+
+45:45
+And in terms of campaigners, can you just quickly go back? How many campaigners were there? 20.
+
+45:57
+Yeah. Yeah, 27. Okay.
+
+46:10
+Okay, I'm good. Thanks. Anything else you guys wanted to discuss?
+
+46:16
+Uh, I think we work for today. Which we had on that. Yeah, I was just, for example. So the numbers we had I didn't see the numbers.
+
+46:42
+Right. So um, One, two, four, four. The original cohort, 0.33 permit.
+
+46:55
+Okay, so you did it separately, like, even the clustering was done separately, And that was because we didn't want we just wanted to normalize it based on the installation. Okay.
+
+47:18
+Yeah, that's thanks. Okay. All right, thank you. Bye.
