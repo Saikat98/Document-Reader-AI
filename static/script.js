@@ -22,9 +22,18 @@ document.addEventListener("DOMContentLoaded", () => {
 
 // attachment upload
 document.getElementById('attachment').addEventListener('click', function() {
-    document.getElementById('attachment-input').click();
-    attachment = false;
-    message.classList.remove("allow_scroll");
+    try {
+        var userDivs = document.querySelectorAll('div[id="user"]');
+        var botDivs = document.querySelectorAll('div[id="bot"]');
+        remove_divs(userDivs);
+        remove_divs(botDivs);
+    } catch (error) {
+        console.error('An error occurred while trying to remove divs:', error);
+    } finally {
+        document.getElementById('attachment-input').click();
+        attachment = false;
+        message.classList.remove("allow_scroll");
+    }
 });
 
 // events once the file is uploaded
@@ -126,4 +135,11 @@ function shake_animation() {
     setTimeout(() => {
         inputField.classList.remove('shake-animation');
     }, 150);
+}
+
+// function to remove divs (chats) once the attachment button is clicked
+function remove_divs(divs) {
+    divs.forEach(function(div) {
+        div.parentNode.removeChild(div);
+    });
 }
