@@ -39,4 +39,5 @@ def get_answer(query, passage):
     time.sleep(2)
     answer = model.generate_content(prompt)
 
+    print("MODEL: ",answer.text)
     return answer.text

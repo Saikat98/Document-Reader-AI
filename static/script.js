@@ -1,4 +1,5 @@
 import { marked } from "https://cdn.jsdelivr.net/npm/marked/lib/marked.esm.js";
+import moment from 'https://cdn.jsdelivr.net/npm/moment@2.29.1/dist/moment.min.js';
 
 var inputField = document.getElementById("input");
 var message = document.getElementById('messages');
@@ -83,20 +84,34 @@ function add_chat(query) {
     const messagesContainer = document.getElementById("messages");
 
     let userDiv = document.createElement("div");
+    let userImg = document.createElement("img");
+    let userText = document.createElement("div");
+    let userTime = document.createElement("span");
     userDiv.id = "user";
+    userImg.src = "/static/images/user.png";
+    userImg.className = "avatar";
     userDiv.className = "user response";
-    userDiv.innerHTML = `<span class="user_response">${query}</span><img src="/static/images/user.png" class="avatar">`;
+    userText.className = "user_response";
+    userTime.className = "user_time";
+    userText.innerText = query;
+    userTime.innerText = moment().format('h:mm A');
+    userDiv.appendChild(userText);
+    userText.appendChild(userTime);
+    userDiv.appendChild(userImg);
     messagesContainer.appendChild(userDiv);
 
     let botDiv = document.createElement("div");
     let botImg = document.createElement("img");
-    let botText = document.createElement("span");
+    let botText = document.createElement("div");
+    let botTime = document.createElement("span");
     botDiv.id = "bot";
     botImg.src = "/static/images/dino.png";
     botImg.className = "avatar";
     botDiv.className = "bot response";
     botText.className = "bot_response";
+    botTime.className = "bot_time";
     botText.classList.toggle('typing');
+    // botText.innerText = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     botDiv.appendChild(botImg);
     botDiv.appendChild(botText);
     messagesContainer.appendChild(botDiv);
@@ -116,6 +131,8 @@ function add_chat(query) {
         // Update DOM
         botText.classList.toggle('typing');
         botText.innerHTML = marked.parse(answer);
+        botTime.innerText = moment().format('h:mm A');
+        botText.appendChild(botTime);
         // Keep messages at most recent
         messagesContainer.scrollTop = messagesContainer.scrollHeight - messagesContainer.clientHeight;
     })
